@@ -67,7 +67,7 @@ Here are my most recent articles:
 <!-- links to social media icons -->
 
 [1.1]: https://raw.githubusercontent.com/TobiStr/TobiStr/master/img/linkedin.png
-[2.1]: https://raw.githubusercontent.com/TobiStr/TobiStr/master/img/freelancermap.png
+[2.1]: https://raw.githubusercontent.com/TobiStr/TobiStr/master/img/freelancermap_small.png
 
 
 <!-- links to your social media accounts -->
