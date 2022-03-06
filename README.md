@@ -37,7 +37,12 @@ Apart from coding, I also maintain a blog - you can find my articles on [Medium]
 Here are my most recent articles:
 
 <!-- BLOG-POST-LIST:START -->
-
+- [How to Implement Microsoft.Identity.Web in Azure Functions V4 and .NET 6](https://betterprogramming.pub/how-to-implement-microsoft-identity-web-in-azure-functions-v4-and-net-6-7e6ef97b2926?source=rss-c40fa101e695------2)
+- [9 Rules for Clean LINQ Queries](https://betterprogramming.pub/9-rules-for-clean-linq-queries-2a894724bb61?source=rss-c40fa101e695------2)
+- [8 Guidelines to Write Readable Code in C# With .NET 6](https://betterprogramming.pub/8-guidelines-to-write-readable-code-in-c-with-net-6-2cbf0bfe4a17?source=rss-c40fa101e695------2)
+- [Writing Serverless Business Logic With Hasura Actions and Azure Functions](https://betterprogramming.pub/writing-serverless-business-logic-with-hasura-actions-and-azure-functions-505c7c9f743b?source=rss-c40fa101e695------2)
+- [Boost Your Productivity With Visual Studio/VS Code Shortcuts and Refactoring](https://betterprogramming.pub/leverage-your-coding-speed-to-the-maximum-with-visual-studio-vscode-shortcuts-and-refactorings-fcbed61b7540?source=rss-c40fa101e695------2)
+- [Hasura, GraphQL, and Auto Code Generation With Angular](https://betterprogramming.pub/hasura-graphql-and-auto-code-generation-with-angular-2e6321e4d532?source=rss-c40fa101e695------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
