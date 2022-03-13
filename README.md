@@ -5,28 +5,22 @@
 My name is Tobias Streng and I'm a software architect. I'm from Munich - Germany and currently working at ARRK Engineering. You can find me on [![LinkedIn][1.1]][1] or [![Freelancermap][2.1]][2].
 
 ## 🔧 Techstack
-![](https://img.shields.io/badge/Editor-Visual%20Studio-informational?style=for-the-badge&logo=visualstudio&logoColor=white&color=blueviolet)
-
+![](https://img.shields.io/badge/Editor-Visual%20Studio-informational?style=for-the-badge&logo=visualstudio&logoColor=white&color=blueviolet) 
 ![](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-informational?style=for-the-badge&logo=visualstudiocode&logoColor=white&color=blueviolet)
 
-![](https://img.shields.io/badge/Language-C%23-informational?style=for-the-badge&logo=csharp&logoColor=white&color=blue)
-
-![](https://img.shields.io/badge/Language-TypeScript-informational?style=for-the-badge&logo=typescript&logoColor=white&color=blue)
-
+![](https://img.shields.io/badge/Language-C%23-informational?style=for-the-badge&logo=csharp&logoColor=white&color=blue) 
+![](https://img.shields.io/badge/Language-TypeScript-informational?style=for-the-badge&logo=typescript&logoColor=white&color=blue) 
 ![](https://img.shields.io/badge/Language-Solidity-informational?style=for-the-badge&logo=solidity&logoColor=white&color=blue)
 
-![](https://img.shields.io/badge/Framework-.NET-informational?style=for-the-badge&logo=dotnet&logoColor=white&color=red)
-
+![](https://img.shields.io/badge/Framework-.NET-informational?style=for-the-badge&logo=dotnet&logoColor=white&color=red) 
 ![](https://img.shields.io/badge/Framework-Angular-informational?style=for-the-badge&logo=angular&logoColor=white&color=red)
 
-![](https://img.shields.io/badge/Tool-Hasura-informational?style=for-the-badge&logo=hasura&logoColor=white&color=00b859)
-
+![](https://img.shields.io/badge/Tool-Hasura-informational?style=for-the-badge&logo=hasura&logoColor=white&color=00b859) 
 ![](https://img.shields.io/badge/Tool-Terraform-informational?style=for-the-badge&logo=terraform&logoColor=white&color=00b859)
 
 ![](https://img.shields.io/badge/Cloud-Microsoft%20Azure-informational?style=for-the-badge&logo=icloud&logoColor=white&color=26ffff)
 
 ![](https://img.shields.io/badge/Certificate-Azure%20DevOps%20Engineer%20Expert-informational?style=for-the-badge&logo=windows&logoColor=white&color=ADD8E6)
-
 ![](https://img.shields.io/badge/Certificate-Azure%20Cloud%20Solutions%20Architect%20Expert-informational?style=for-the-badge&logo=windows&logoColor=white&color=ADD8E6)
 
 
