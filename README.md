@@ -37,7 +37,6 @@ Apart from coding, I also maintain a blog - you can find my articles on [Medium]
 Here are my most recent articles:
 
 <!-- BLOG-POST-LIST:START -->
-
 - [The Best Approach for a Pipeline Architecture in .NET](https://betterprogramming.pub/the-best-approach-for-a-pipeline-architecture-in-net-d0ad0332ea24?source=rss-c40fa101e695------2)
 - [How to Implement Microsoft.Identity.Web in Azure Functions V4 and .NET 6](https://betterprogramming.pub/how-to-implement-microsoft-identity-web-in-azure-functions-v4-and-net-6-7e6ef97b2926?source=rss-c40fa101e695------2)
 - [9 Rules for Clean LINQ Queries](https://betterprogramming.pub/9-rules-for-clean-linq-queries-2a894724bb61?source=rss-c40fa101e695------2)
