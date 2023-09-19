@@ -6,7 +6,9 @@
 
 # Welcome to my profile!
 
-My name is Tobias Streng and I'm a software architect. I'm from Munich - Germany and currently working at ARRK Engineering. You can find me on [![LinkedIn][1.1]][1] or [![Freelancermap][2.1]][2].
+My name is Tobias Streng and I'm a software architect from Munich - Germany and currently working at ARRK Engineering. You can find me on [![LinkedIn][1.1]][1] or [![Freelancermap][2.1]][2].
+
+I am the founder and programmer of [Fairgleich.net](https://fairgleich.net), a top of the art product comparison portal with focus on maximizing the user experience. 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=TobiStr&label=%20Profile%20Views%20&color=blue&style=for-the-badge" alt="tobistr" /> </p>
 
