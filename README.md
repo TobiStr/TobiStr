@@ -2,7 +2,7 @@
 
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?lines=Azure+Solutions+Architect+Expert" alt="solutionsarchitect" /> </p>
 
-<p align="center"> <img src="https://raw.githubusercontent.com/TobiStr/TobiStr/master/img/CertificateBadge.png" alt="azurebadge" height="150"/> </p>
+<p align="center"> <a href="https://learn.microsoft.com/api/credentials/share/de-de/TobiS-5896/974649F243521543?sharingId=5E7156FFB35B2E16"><img src="https://raw.githubusercontent.com/TobiStr/TobiStr/master/img/CertificateBadge.png" alt="azurebadge" height="150"/></a> </p>
 
 # Welcome to my profile!
 
@@ -17,20 +17,45 @@ I am the founder and programmer of [Fairgleich.net](https://fairgleich.net), a t
 ![](https://img.shields.io/badge/Editor-Visual%20Studio-informational?style=for-the-badge&logo=visualstudio&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-informational?style=for-the-badge&logo=visualstudiocode&logoColor=white&color=blueviolet)
 
-![](https://img.shields.io/badge/Language-C%23-informational?style=for-the-badge&logo=csharp&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Language-TypeScript-informational?style=for-the-badge&logo=typescript&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Language-Solidity-informational?style=for-the-badge&logo=solidity&logoColor=white&color=blue)
-
-![](https://img.shields.io/badge/Framework-.NET-informational?style=for-the-badge&logo=dotnet&logoColor=white&color=red)
-![](https://img.shields.io/badge/Framework-Angular-informational?style=for-the-badge&logo=angular&logoColor=white&color=red)
-
-![](https://img.shields.io/badge/Tool-Hasura-informational?style=for-the-badge&logo=hasura&logoColor=white&color=00b859)
-![](https://img.shields.io/badge/Tool-Terraform-informational?style=for-the-badge&logo=terraform&logoColor=white&color=00b859)
-
 ![](https://img.shields.io/badge/Cloud-Microsoft%20Azure-informational?style=for-the-badge&logo=icloud&logoColor=white&color=26ffff)
 
+![https://learn.microsoft.com/api/credentials/share/de-de/TobiS-5896/974649F243521543?sharingId=5E7156FFB35B2E16](https://img.shields.io/badge/Certificate-Azure%20Cloud%20Solutions%20Architect%20Expert-informational?style=for-the-badge&logo=windows&logoColor=white&color=ADD8E6)
 ![](https://img.shields.io/badge/Certificate-Azure%20DevOps%20Engineer%20Expert-informational?style=for-the-badge&logo=windows&logoColor=white&color=ADD8E6)
-![](https://img.shields.io/badge/Certificate-Azure%20Cloud%20Solutions%20Architect%20Expert-informational?style=for-the-badge&logo=windows&logoColor=white&color=ADD8E6)
+
+![](https://img.shields.io/badge/Language-C%23-informational?style=for-the-badge&logo=csharp&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Language-TypeScript-informational?style=for-the-badge&logo=typescript&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Language-Javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Language-HTML5-informational?style=for-the-badge&logo=html5&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Language-CSS3-informational?style=for-the-badge&logo=css3&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Language-Graphql-informational?style=for-the-badge&logo=graphql&logoColor=white&color=blue)
+
+![](https://img.shields.io/badge/Framework-.NET-informational?style=for-the-badge&logo=dotnet&logoColor=white&color=red)
+![](https://img.shields.io/badge/Framework-NodeJS-informational?style=for-the-badge&logo=npm&logoColor=white&color=red)
+![](https://img.shields.io/badge/Framework-Angular-informational?style=for-the-badge&logo=angular&logoColor=white&color=red)
+![](https://img.shields.io/badge/Framework-Express-informational?style=for-the-badge&logo=express&logoColor=white&color=red)
+![](https://img.shields.io/badge/Framework-Jest-informational?style=for-the-badge&logo=jest&logoColor=white&color=red)
+
+![](https://img.shields.io/badge/Tool-Terraform-informational?style=for-the-badge&logo=terraform&logoColor=white&color=00b859)
+![](https://img.shields.io/badge/Tool-Hasura-informational?style=for-the-badge&logo=hasura&logoColor=white&color=00b859)
+![](https://img.shields.io/badge/Tool-ChatGPT-informational?style=for-the-badge&logo=openai&logoColor=white&color=00b859)
+![](https://img.shields.io/badge/Tool-Kubernetes-informational?style=for-the-badge&logo=Kubernetes&logoColor=white&color=00b859)
+![](https://img.shields.io/badge/Tool-puppeteer-informational?style=for-the-badge&logo=puppeteer&logoColor=white&color=00b859)
+![](https://img.shields.io/badge/Tool-Stable%20Diffusion-informational?style=for-the-badge&logo=openai&logoColor=white&color=00b859)
+
+![](https://img.shields.io/badge/DevOps-Github-informational?style=for-the-badge&logo=github&logoColor=white&color=879a9c)
+![](https://img.shields.io/badge/DevOps-Azure%20Devops-informational?style=for-the-badge&logo=azuredevops&logoColor=white&color=879a9c)
+
+![](https://img.shields.io/badge/Concept-Serverless-informational?style=for-the-badge&logo=internetarchive&logoColor=white&color=8e7b9c)
+![](https://img.shields.io/badge/Concept-Reactive%20Programming-informational?style=for-the-badge&logo=internetarchive&logoColor=white&color=8e7b9c)
+![](https://img.shields.io/badge/Concept-grpc-informational?style=for-the-badge&logo=internetarchive&logoColor=white&color=8e7b9c)
+![](https://img.shields.io/badge/Concept-CQRS-informational?style=for-the-badge&logo=internetarchive&logoColor=white&color=8e7b9c)
+![](https://img.shields.io/badge/Concept-Domain%20Driven%20Design-informational?style=for-the-badge&logo=internetarchive&logoColor=white&color=8e7b9c)
+![](https://img.shields.io/badge/Concept-Large%20Language%20Models-informational?style=for-the-badge&logo=internetarchive&logoColor=white&color=8e7b9c)
+
+![](https://img.shields.io/badge/Design-Security-informational?style=for-the-badge&logo=materialdesignicons&logoColor=white&color=a6a35b)
+![](https://img.shields.io/badge/Design-Resilience-informational?style=for-the-badge&logo=materialdesignicons&logoColor=white&color=a6a35b)
+![](https://img.shields.io/badge/Design-Observability-informational?style=for-the-badge&logo=materialdesignicons&logoColor=white&color=a6a35b)
+![](https://img.shields.io/badge/Design-Portability-informational?style=for-the-badge&logo=materialdesignicons&logoColor=white&color=a6a35b)
 
 ## &#x270d; Blog & Writing
 
